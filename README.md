@@ -30,10 +30,11 @@ The Objective is to analyse the company’s HR data in order to identify key are
 
 ### Finding and Insights
 1. The company does not meet the payment requirement. Only 31% get paid up to $90,000 while the other 69% are underpaid.
-2. There is a gender gap with are more male employees than females. onl ... percen of female make up the team.
-3. Based on rating females have a better performance (good and very good) rating females have higher percentage. But (average very poor and poor) rating have higher male percentage.
-4. Salary band most employees fall above $90,000 Then $70,000 - $60,000 Then $80,000 - $90,000
-5. here is a salar gap     average salary b gender
+2. There is a general gender disribuion gap.
+3. Abuja (Accounting, Legal and Training) In Kaduna (Markeing, Sales and training ) In Lagos (Product Mgt, Research and Support)
+4. Based on rating females have a better performance (good and very good) rating females have higher percentage. But (average very poor and poor) rating have higher male percentage.
+5. Salary band most employees fall above $90,000 Then $70,000 - $60,000 Then $80,000 - $90,000
+6. There is a salary gap     average salary b gender
 
 
 -There is a gender equality in Abuja 
@@ -72,3 +73,5 @@ There are more males than females in Legal, sales, support, Accounting.
 Kaduna is paying the most
 
 ### Recommendation
+1. Increase staff salr in order o mee $90,000 requirement
+2.  
