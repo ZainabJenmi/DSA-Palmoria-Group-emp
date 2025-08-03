@@ -1,7 +1,10 @@
 # DSA Palmora Group HR Analysis
+The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
+bordering on gender inequality in its 3 regions. Unfortunately, the media recently
+published the news with the headline “Palmoria, the Manufacturing Patriarchy”.
  
 ### Project Objective 
-The Objective is to analyse the company’s HR data in order to identify key areas within the business that could give rise to issues like gender Inequality , Under payment and come up with recommendations for the managemen.  
+The Objective is to analyse the company’s HR data in order to identify key areas within the business that could give rise to issues like gender Inequality , under payment and come up with recommendations for the management.  
 
 ### Tools used
 - Power Query
@@ -10,8 +13,9 @@ The Objective is to analyse the company’s HR data in order to identify key are
 ### Process
 ##### Data cleaning and manipulation
 - Removal of duplicates.
-- Assigning undisclosed o empty gender. 
+- Assigning undisclosed to empty gender. 
 - Removing employees wih null department and salary.
+- Unpivotting
   
 ##### Analysis and visualisaion
 - Identified employees earning < $90,000.
