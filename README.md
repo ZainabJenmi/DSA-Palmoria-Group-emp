@@ -4,8 +4,6 @@
 ### Project Objective 
 The Objective is to analyse the company’s HR data in order to identify key areas within the business that could give rise to issues like gender Inequality, Under payment and come up with recommendations for management’s attention.  
 
-### About Data
-
 ### Tools used
 - Power Query
 - Microsoft Power BI
@@ -20,6 +18,7 @@ The Objective is to analyse the company’s HR data in order to identify key are
 - Salary grouped in $10,000 bands
 - Analyzed average salary per gender by region and department
 - Analsiing Salary by Band of $10,000 interval
+  
 #### Visualization
 <img width="1112" height="852" alt="Palmoria Dashboard 1" src="https://github.com/user-attachments/assets/9f14e8b4-3710-4982-bf29-5b87b04810f7" />
 
@@ -38,32 +37,14 @@ The Objective is to analyse the company’s HR data in order to identify key are
 
    -Lagos (Product Mgt, Research and Support)departments
 4. Based on rating females have a better performance (good and very good) rating females have higher percentage, but (very poor and poor) rating have higher male percentage.
-5. There is a salary gap     average salary b gender
+5. There is an average payment gap between gender.Significant gap in
 
+   -Abuja Human resources Department
 
- 
- 
+   -Kaduna Engineering Department
 
-
-There is a salary gender gap
-*Abuja* 
-Significant difference Abuja Human resources 
-           Accounting 
-          Legal
-         Market females are paid more 
-        Services
-*Lagos*
-   Engineering 
-   Product management 
-   Research and ..
-   Sales
-   Training females are more
-*Kaduna*
- Buniness
- Engineering girls are paid more 
- Legal 
- Marketing
-
+   -Lagos Marketing Deparment
+   
 Kaduna is paying the most
 
 ### Recommendation
