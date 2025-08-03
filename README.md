@@ -31,20 +31,18 @@ The Objective is to analyse the company’s HR data in order to identify key are
 ### Finding and Insights
 1. The company does not meet the payment requirement. Only 31% get paid up to $90,000 while the other 69% are underpaid.
 2. There is a general gender disribuion gap particularly in the following  departments  listed below grouped by Region
-  -Abuja (Accounting, Legal and Training)
-  -Kaduna (Markeing, Sales and training )
-  -Lagos (Product Mgt, Research and Support)
-3. Based on rating females have a better performance (good and very good) rating females have higher percentage. But (average very poor and poor) rating have higher male percentage.
-4. Salary band most employees fall above $90,000 Then $70,000 - $60,000 Then $80,000 - $90,000
+
+   -Abuja (Accounting, Legal and Training)departments
+
+   -Kaduna (Markeing, Sales and training )departments
+
+   -Lagos (Product Mgt, Research and Support)departments
+4. Based on rating females have a better performance (good and very good) rating females have higher percentage, but (very poor and poor) rating have higher male percentage.
 5. There is a salary gap     average salary b gender
 
 
--There is a gender equality in Abuja 
-But in Abuja there are 20 more males employes than females 
-Departments 
-
-There are more males than females in Legal, sales, support, Accounting.
-
+ 
+ 
 
 
 There is a salary gender gap
@@ -59,21 +57,15 @@ Significant difference Abuja Human resources
    Product management 
    Research and ..
    Sales
-    Training females are more
+   Training females are more
 *Kaduna*
  Buniness
  Engineering girls are paid more 
-Legal 
+ Legal 
  Marketing
-
-But in Abuja there are 20 more males employes than females 
-
-Departments 
-There are more males than females in Legal, sales, support, Accounting.
-
 
 Kaduna is paying the most
 
 ### Recommendation
-1. Increase staff salr in order o mee $90,000 requirement
+1. Increase staff salary in order to meet $90,000 requirement
 2.  
