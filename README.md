@@ -1,24 +1,34 @@
 # DSA Palmora Group HR Analysis
-## Business Problem 
  issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”
-## Project Objective 
-The objectiveis  to identify key areas within the business that could give rise to issues and address them immediately. Objective is to analyse the company’s HR data and come up with recommendations for management’s attention.  
-## Aim
-To help Palmoria address its gender inequality issues and safeguard its reputation, you need to approach this analysis systematically, uncovering insights that reveal what’s really happening, where the issues lie, and why they matter.
 
+### Project Objective 
+The Objective is to analyse the company’s HR data in order to identify key areas within the business that could give rise to issues like gender Inequality, Under payment and come up with recommendations for management’s attention.  
 
-## About Data
-## Tools used
+### About Data
+
+### Tools used
 - Power Query
 - Microsoft Power BI
-## Methodology
-### Data cleaning and manipulation
+
+### Methodology
+#### Data cleaning and manipulation
 - Removal of duplicates.
 - Assigning undisclosed o empty gender. 
 - Removing employees wih null department and salary.
+#### Analysis
+- Identified employees earning < $90,000
+- Salary grouped in $10,000 bands
+- Analyzed average salary per gender by region and department
+- Analsiing Salary by Band of $10,000 interval
+### Visualization
+<img width="1112" height="852" alt="Palmoria Dashboard 1" src="https://github.com/user-attachments/assets/9f14e8b4-3710-4982-bf29-5b87b04810f7" />
 
-## Visualization
-## Finding and Insights
+
+<img width="1117" height="858" alt="Palmoria Dashboard2" src="https://github.com/user-attachments/assets/36c8cb66-e0cd-431b-b81d-9e5bcf89685a" />
+ 
+
+
+### Finding and Insights
 1. The company does not meet the payment requirement. Only 31% get paid up to $90,000 while the other 69% are underpaid.
 2. There is a gender gap with are more male employees than females. onl ... percen of female make up the team.
 3. Based on rating females have a better performance (good and very good) rating females have higher percentage. But (average very poor and poor) rating have higher male percentage.
@@ -61,4 +71,4 @@ There are more males than females in Legal, sales, support, Accounting.
 
 Kaduna is paying the most
 
-## Recommendation
+### Recommendation
