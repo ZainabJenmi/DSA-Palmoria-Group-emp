@@ -3,17 +3,27 @@
  issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”
 ## Project Objective 
 The objectiveis  to identify key areas within the business that could give rise to issues and address them immediately. Objective is to analyse the company’s HR data and come up with recommendations for management’s attention.  
+## Aim
+To help Palmoria address its gender inequality issues and safeguard its reputation, you need to approach this analysis systematically, uncovering insights that reveal what’s really happening, where the issues lie, and why they matter.
+
+
 ## About Data
 ## Tools used
 - Power Query
 - Microsoft Power BI
 ## Methodology
+### Data cleaning and manipulation
+- Removal of duplicates.
+- Assigning undisclosed o empty gender. 
+- Removing employees wih null department and salary.
+
 ## Visualization
 ## Finding and Insights
 1. The company does not meet the payment requirement. Only 31% get paid up to $90,000 while the other 69% are underpaid.
-2. There is a gender gap with are more male employees than females.
+2. There is a gender gap with are more male employees than females. onl ... percen of female make up the team.
 3. Based on rating females have a better performance (good and very good) rating females have higher percentage. But (average very poor and poor) rating have higher male percentage.
 4. Salary band most employees fall above $90,000 Then $70,000 - $60,000 Then $80,000 - $90,000
+5. here is a salar gap     average salary b gender
 
 
 -There is a gender equality in Abuja 
