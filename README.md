@@ -49,4 +49,4 @@ Kaduna is paying the most
 
 ### Recommendation
 1. Increase staff salary in order to meet $90,000 requirement
-2.  
+2. Company should review hiring processes and incorporae flexible company policies so the can be a gender disribuion balance. 
