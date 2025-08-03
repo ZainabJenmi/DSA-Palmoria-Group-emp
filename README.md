@@ -20,7 +20,7 @@ The Objective is to analyse the company’s HR data in order to identify key are
 - Salary grouped in $10,000 bands
 - Analyzed average salary per gender by region and department
 - Analsiing Salary by Band of $10,000 interval
-### Visualization
+#### Visualization
 <img width="1112" height="852" alt="Palmoria Dashboard 1" src="https://github.com/user-attachments/assets/9f14e8b4-3710-4982-bf29-5b87b04810f7" />
 
 
@@ -30,11 +30,13 @@ The Objective is to analyse the company’s HR data in order to identify key are
 
 ### Finding and Insights
 1. The company does not meet the payment requirement. Only 31% get paid up to $90,000 while the other 69% are underpaid.
-2. There is a general gender disribuion gap.
-3. Abuja (Accounting, Legal and Training) In Kaduna (Markeing, Sales and training ) In Lagos (Product Mgt, Research and Support)
-4. Based on rating females have a better performance (good and very good) rating females have higher percentage. But (average very poor and poor) rating have higher male percentage.
-5. Salary band most employees fall above $90,000 Then $70,000 - $60,000 Then $80,000 - $90,000
-6. There is a salary gap     average salary b gender
+2. There is a general gender disribuion gap particularly in the following  departments  listed below grouped by Region
+  -Abuja (Accounting, Legal and Training)
+  -Kaduna (Markeing, Sales and training )
+  -Lagos (Product Mgt, Research and Support)
+3. Based on rating females have a better performance (good and very good) rating females have higher percentage. But (average very poor and poor) rating have higher male percentage.
+4. Salary band most employees fall above $90,000 Then $70,000 - $60,000 Then $80,000 - $90,000
+5. There is a salary gap     average salary b gender
 
 
 -There is a gender equality in Abuja 
